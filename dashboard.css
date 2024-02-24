@@ -1,0 +1,33 @@
+*{
+    text-decoration: none;  
+    display:center;
+    justify-content: space-between;
+}
+
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 0px;
+    margin-top:10px;
+}
+
+
+.icons img{
+    height: 10px;
+    weight:10px;
+}
+
+
+.table-bordered{
+    margin-left: 30%;
+}
+
+
